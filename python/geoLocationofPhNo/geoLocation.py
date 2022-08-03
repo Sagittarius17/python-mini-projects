@@ -14,8 +14,7 @@ service_pro = phonenumbers.parse(number)
 name  = carrier.name_for_number(service_pro, "en") 
 print(name) # print service provider name
 
-key = "010974c5ddee47a9896e30c8763a480e" # api key
-#curl = "https://api.opencagedata.com/geocode/v1/json?q=LAT+LNG&key=010974c5ddee47a9896e30c8763a480e"
+key = "(Provide your API key here.)" # api key
 
 geocoder = OpenCageGeocode(key)
 query = str(location)
