@@ -1,1 +1,1 @@
-# python-mini-projects created by Shuvendu Singha a.k.a Sagittarius17.
+to run type "python script.py" in terminal
