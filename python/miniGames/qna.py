@@ -23,7 +23,7 @@ while True:
         print(pg.confirm('Correct answer'))
         
         
-    q3 = pg.confirm("3) Which one is a digital crypto currency based on blockchain?", buttons = ["a : Bitcoin", 
+    q3 = pg.confirm("3) Which one is a crypto currency build on blockchain?", buttons = ["a : Bitcoin", 
                                                                                                  "b : Ethereum", 
                                                                                                  "c : polygon", 
                                                                                                  "d : All above"])
